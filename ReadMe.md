@@ -1,5 +1,6 @@
 # Read Me
 
+## Rails Project Dev Guideline
 This repository will be our technical document for 
 
 1. Project setup
